@@ -1,10 +1,5 @@
 /****************************************************************
- **File: proj3.cpp
- **project: CMSC 202 project 3, Spring 2017
- **Author: Dawit Gebremariam
- **Date: 03/30/2017
- **Section: 8
- **Email: gdawit1@umbc.edu
+ 
  **This program represents a Sequencer class
  **This program contains functions that reads from a file and populates the DNA,
  **and main menu 
