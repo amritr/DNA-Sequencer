@@ -1,12 +1,5 @@
  
 /****************************************************************
- **File: proj1.cpp
- **project: CMSC 202 project 1, Spring 2017
- **Author: Dawit Gebremariam
- **Date: 02/23/2017
- **Section:
- **Email: gdawit1@umbc.edu
- **
  **This file contains the main driver program for project 1.
  **This files gives the user an option either to load the map
  **or create new map inorder to play the Manhunt game. Then it
