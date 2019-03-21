@@ -3,7 +3,7 @@
  **This program represents a Sequencer class
  **This program contains functions that reads from a file and populates the DNA,
  **and main menu 
- **
+ 
  *****************************************************************/
 
 #include "Sequencer.h"
